@@ -1,0 +1,21 @@
+My node beginner book examples and additions.
+
+Makes it easier to demo blocking and non-blocking.
+
+On server:
+node index.js
+
+Visit:
+http://127.0.0.1:8888/
+
+Blocking:
+http://127.0.0.1:8888/ls
+
+Non-blocking:
+http://127.0.0.1:8888/find
+
+Console:
+**RUNS THE COMMAND ON THE SERVER THEN SHOWS YOU THE OUTPUT.**
+** DONT DO ANYTHING YOU WOULDNT DO ON THE SERVER**
+**  STREAMING AND PIPES DONT WORK RIGHT NOW**
+http://127.0.0.1:8888/cmd
